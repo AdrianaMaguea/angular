@@ -1,0 +1,11 @@
+p {
+  font-family: Lato;
+}
+.title {
+  text-align: center;
+  color: #7C07F2;
+}
+.description {
+color: #AB04F2;
+font-weight: bold;
+}
